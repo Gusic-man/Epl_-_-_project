@@ -1,0 +1,8 @@
+1. epl 축구 데이터 분석 및 시각화
+2. 데이터 분석을 위한 pandas공부
+3. 데이터 시각화를 위한 matplotlib 공부
+4. 데이터 수집을 위해 request, BeautifulSoup 공부
+	(수집시도 그러나, epl 데이터 제공 사이트는 동적 웹페이지)
+5. 동적 웹페이지 는 selenium 필요, 다시 공부.
+
+https://m.blog.naver.com/chunsa0127/222048197119
